@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <!-- Treasure chest -->
+    <rect x="10" y="24" width="44" height="30" fill="#8B4513" stroke="#000" stroke-width="2"/>
+    <path d="M10 40 L54 40" stroke="#000" stroke-width="2"/>
+    <rect x="14" y="28" width="36" height="8" fill="#FFD700"/>
+    <circle cx="32" cy="40" r="3" fill="#DAA520"/>
+</svg>
